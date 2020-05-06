@@ -1,9 +1,4 @@
-# My Portfolio
-This is a personal portfolio of my course work in data science as well as independent research I have done as an undergraduate at both Pitzer College and New York University.
-
-## Analysis of Galactic Imaging using Complex Steerable Pyramids 
-- [Abstract]()
-- [Code]()
-- [Report]()
+# Thesis in Computational Astrophysics
+This is a temporary page for my thesis which has not yet been completed. I, along with faculty in NYU's physics department, have decided to continue this research over the Summer which may delay revisions to this page. Check back later for updates on this project.
 
 
